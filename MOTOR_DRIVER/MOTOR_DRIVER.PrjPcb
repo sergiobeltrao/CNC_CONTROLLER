@@ -53,7 +53,7 @@ PrefsRevisionGUID=
 ReleaseTarget=3
 
 [Document1]
-DocumentPath=2_ALIMENTACAO_24V_5V_3V3.SchDoc
+DocumentPath=1_ENTRADA_DE_ALIMENTACAO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,7 +70,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BKPNJEUB
 
 [Document2]
-DocumentPath=3_DRV_MOTORES_DE_PASSO.SchDoc
+DocumentPath=2_MOTORES_DE_PASSO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,7 +87,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VFRLFGQA
 
 [Document3]
-DocumentPath=4_DRV_MOTORES_DC.SchDoc
+DocumentPath=3_MOTORES_DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,7 +121,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=5_MICROCONTROLADOR.SchDoc
+DocumentPath=4_MICROCONTROLADOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138,7 +138,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CXJGCLTJ
 
 [Document6]
-DocumentPath=6_IO_EXTERNOS.SchDoc
+DocumentPath=5_IO_EXTERNOS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
