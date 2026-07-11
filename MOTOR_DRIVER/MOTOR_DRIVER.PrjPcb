@@ -53,23 +53,6 @@ PrefsRevisionGUID=
 ReleaseTarget=3
 
 [Document1]
-DocumentPath=1_PAGINA_INICIAL.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KHEBMYDC
-
-[Document2]
 DocumentPath=2_ALIMENTACAO_24V_5V_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +69,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKPNJEUB
 
-[Document3]
+[Document2]
 DocumentPath=3_DRV_MOTORES_DE_PASSO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +86,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFRLFGQA
 
-[Document4]
+[Document3]
 DocumentPath=4_DRV_MOTORES_DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJINFHSP
 
-[Document5]
+[Document4]
 DocumentPath=MOTOR_DRIVER.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,24 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=7_FUROS_E_TEST_POINTS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BWTZPAQW
-
-[Document7]
+[Document5]
 DocumentPath=5_MICROCONTROLADOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXJGCLTJ
 
-[Document8]
+[Document6]
 DocumentPath=6_IO_EXTERNOS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJOKVXOX
 
-[Document9]
+[Document7]
 DocumentPath=MOTOR_DRIVER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
