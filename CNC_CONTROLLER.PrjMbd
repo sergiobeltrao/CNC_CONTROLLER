@@ -86,6 +86,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=POWER_SUPPLY.PrjPcb
+VaultURL=
+VaultName=
 
 [Document3]
 DocumentPath=MOTOR_DRIVER\MOTOR_DRIVER.PrjPcb
@@ -107,9 +109,11 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=MOTOR_DRIVER.PrjPcb
+VaultURL=
+VaultName=
 
 [Document4]
-DocumentPath=EXPANSION_BOARD\EXPANSION_BOARD.PrjPcb
+DocumentPath=LOGICAL_BOARD\LOGICAL_BOARD.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -127,7 +131,7 @@ DocumentUniqueId=
 VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
-ProjectName=EXPANSION_BOARD.PrjPcb
+ProjectName=LOGICAL_BOARD.PrjPcb
 
 [Configuration1]
 Name=Default - All Constraints

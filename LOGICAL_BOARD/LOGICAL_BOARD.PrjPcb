@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XOELTVWJ
 
 [Document5]
-DocumentPath=EXPANSION_BOARD.Annotation
+DocumentPath=LOGICAL_BOARD.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
