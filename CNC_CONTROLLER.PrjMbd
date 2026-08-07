@@ -90,7 +90,7 @@ VaultURL=
 VaultName=
 
 [Document3]
-DocumentPath=MOTOR_DRIVER\MOTOR_DRIVER.PrjPcb
+DocumentPath=DRIVER\DRIVER.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -108,30 +108,7 @@ DocumentUniqueId=
 VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
-ProjectName=MOTOR_DRIVER.PrjPcb
-VaultURL=
-VaultName=
-
-[Document4]
-DocumentPath=LOGICAL_BOARD\LOGICAL_BOARD.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-VaultGUID=
-ManagedProjectGUID=
-RevisionGUID=
-ProjectName=LOGICAL_BOARD.PrjPcb
+ProjectName=DRIVER.PrjPcb
 
 [Configuration1]
 Name=Default - All Constraints
