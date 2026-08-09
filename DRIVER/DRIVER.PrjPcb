@@ -151,6 +151,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLUCXUWR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DRIVER\Design Rule Check - DRIVER.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
