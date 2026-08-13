@@ -117,10 +117,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIMXDIJV
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for POWER_SUPPLY\Design Rule Check - POWER_SUPPLY.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=DrawnBy
 Value=Sérgio Beltrão
