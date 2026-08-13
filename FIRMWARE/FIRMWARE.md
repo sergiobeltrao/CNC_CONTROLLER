@@ -17,7 +17,7 @@ For convenience, this repository also includes a **precompiled binary** in this 
 
    https://www.st.com/en/development-tools/stm32cubeprog.html
 
-2. Connect the following signals to connector **J?**:
+2. Connect the following signals to connector **P201**:
    - **SWDIO**
    - **SWCLK**
    - **GND**
@@ -47,7 +47,7 @@ You can now disconnect the ST-LINK programmer and reset or power cycle the board
 
    https://www.st.com/en/development-tools/stm32cubeprog.html
 
-2. Connect the following signals to connector **J?**:
+2. Connect the following signals to connector **P200**:
    - **TX**
    - **RX**
    - **VCC**
