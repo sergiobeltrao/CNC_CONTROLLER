@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
+DocumentPath=3_LLC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DMZTLHAU
+
+[Document5]
 DocumentPath=POWER_SUPPLY.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,12 +135,12 @@ GenerateClassCluster=0
 DocumentUniqueId=UIMXDIJV
 
 [Parameter1]
-Name=DrawnBy
-Value=Sérgio Beltrão
+Name=Revision
+Value=0.2
 
 [Parameter2]
-Name=Revision
-Value=0.1
+Name=DrawnBy
+Value=Sérgio Beltrão
 
 [Configuration1]
 Name=Sources
