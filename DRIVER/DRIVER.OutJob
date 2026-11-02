@@ -36,9 +36,9 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross",Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=
 
 [PublishSettings]
-OutputFilePath2=Z:\Projetos\Altium\Projetos\MEU_TCC\CNC_CONTROLLER\DRIVER\.PDF
+OutputFilePath2=T:\Projetos\Altium\Projetos\CNC_CONTROLLER\DRIVER\.PDF
 ReleaseManaged2=0
-OutputBasePath2=Z:\Projetos\Altium\Projetos\MEU_TCC\CNC_CONTROLLER\DRIVER
+OutputBasePath2=T:\Projetos\Altium\Projetos\CNC_CONTROLLER\DRIVER
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -115,7 +115,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Z:\Projetos\Altium\Projetos\MEU_TCC\CNC_CONTROLLER\DRIVER\.PDF
+RelativeOutputPath2=T:\Projetos\Altium\Projetos\CNC_CONTROLLER\DRIVER\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
